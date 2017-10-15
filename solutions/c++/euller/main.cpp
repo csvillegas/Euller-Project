@@ -7,9 +7,10 @@
 //
 
 #include <iostream>
+#include "euller001.h"
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "EULLER\n";
+    
+    euller_test_1();
     return 0;
 }
